@@ -150,4 +150,4 @@ function changeText(el, dataForEl, curInd) {
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/dimitrisdr)
+- Frontend Mentor - [@dimitrisdr](https://www.frontendmentor.io/profile/dimitrisdr)
