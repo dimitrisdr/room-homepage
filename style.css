@@ -40,7 +40,7 @@ p {
 
 body {
     background-color: var(--White);
-    font-size: 14px;
+    font-size: 0.925rem;
 }
 
 /* global custom properties */
@@ -191,7 +191,6 @@ body {
     transform: translateX(-50%) scale(1, 1);
 }
 
-
 .move-btn {
     background-color: var(--Black);
     display: grid;
@@ -205,7 +204,6 @@ body {
 .move-btn:hover {
     background-color: var(--Dark-Gray);
 }
-
 
 .description-section__btn {
     display: flex;
@@ -366,8 +364,6 @@ body {
         grid-row: 2;
     }
 } 
-
-
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
